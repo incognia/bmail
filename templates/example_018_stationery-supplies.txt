@@ -1,0 +1,23 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 18
+From: N/A
+To: N/A
+Subject: Stationery Supplies
+FromToStatus: n_a
+---
+Hi Susan
+I'd just like to let you know that the stationery supplies you ordered last week have arrived.
+Your order details are as follows:
+ A4 paper: 20 reams
+ DVD RW: 10 cases
+ Lever arch files: 25
+ Stapes: 10 packs
+ Correction fluid: 15 bottles
+Please could you collect your order from the supplies room on the 2/F?
+If anything is missing from your order, please let me know as soon as possible.
+Regards
+Kate
+Opening Paragraph
+In the first paragraph, you should state the purpose of your email. In the above email the purpose
+statement is:

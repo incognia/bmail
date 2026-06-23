@@ -1,0 +1,23 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 32
+From: Paul Burrows
+To: Diana Spencer
+Subject: Faulty Prontoprint Typewriters
+FromToStatus: extracted
+---
+Dear Ms Spencer
+Further to your email of 30 July 20xx requesting advice about the problems you are having with
+the Prontoprint typewriters, I was sorry to hear that you have been experiencing problems.
+In your email you mention that there are three main problems. First, the keys keep sticking.
+Second, the machines are overheating, and third, the print is of poor quality. In order to solve
+the above problems, I would like to make the following recommendations:
+1. Store the machines in a dry room to prevent the keys from becoming sticky.
+2. Try not to run more than one machine from a single electric socket to avoid
+overheating.
+3. Replace the daisy wheels. The wheels will have become ruined if you had not removed
+the protective film before using them. This may have been the cause of the poor print
+quality.
+I hope this advice helps you to overcome the problems you have been facing with the
+machines.
+Please call me on 2718 4387 if you require further help.

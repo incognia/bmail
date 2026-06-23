@@ -1,0 +1,18 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 68
+From: Roxanne Siegel
+To: Jeff Finch
+Subject: Request for Prices
+FromToStatus: extracted
+---
+Dear Jeff
+Thank you for your recent request for next year’s price increases.
+I can confirm that with the exception of children’s books, all locally published titles will be
+increased by 5%. The prices of children’s titles remain unchanged.
+Imported titles will increase in price by between 2 and 4%. We are waiting for confirmation
+from our overseas suppliers regarding these price increases and we will inform you once we
+have heard from them.
+I look forward to our continued business next year.
+Regards
+Roxanne Siegel

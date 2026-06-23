@@ -1,0 +1,17 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 71
+From: Miguel Renaldo
+To: Gayle Johnston
+Subject: Order Reference 74589G
+FromToStatus: extracted
+---
+Dear Mr Johnston
+I am writing to you regarding the order we placed on 1 February.
+We have received some of the items we ordered from you, but notice that some items are out
+of stock.
+Please cancel our order for the out-of-stock goods and adjust our invoice accordingly for the
+goods received.
+I look forward to receiving the revised invoice.
+Yours sincerely
+Miguel Renaldo

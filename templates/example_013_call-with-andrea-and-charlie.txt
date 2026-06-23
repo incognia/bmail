@@ -1,0 +1,16 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 13
+From: N/A
+To: N/A
+Subject: Call with Andrea and Charlie
+FromToStatus: n_a
+---
+Hi John,
+Further to today's phone call with Andrea and Charlie, they now want to set up another call
+with you on 18 October at 11.30 am. The call should last about an hour. Would you please let
+me know if the timing fits in with your schedule?
+If the schedule is OK, which number shall I ask them to call you on?
+Could you let me know today as I said I'd get back to them before 5?
+Regards
+David

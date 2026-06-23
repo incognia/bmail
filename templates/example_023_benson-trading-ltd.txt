@@ -1,0 +1,24 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 23
+From: N/A
+To: N/A
+Subject: Benson Trading Ltd
+FromToStatus: n_a
+---
+David
+I am pleased to inform you that Bill Granger of Benson Trading Ltd has chosen us as their main
+supplier in Singapore.
+In order to secure their business, however, I had to agree to a 10% discount on our normal
+prices.
+After talking to Bill this morning, I estimate that orders from Benson should be in the region of
+$1.3 million per quarter. This volume of business will ensure that we still make a substantial
+profit.
+I’ll see you at the meeting this afternoon.
+Regards
+John
+Notes:
+In this email, the purpose statement gives good news. We use phrases such as "I am pleased/happy to
+inform you that..." and "You'll be happy to hear that..." to indicate that good news will follow.
+The second and third paragraphs provide further details about the main point.
+The writer includes a polite closing paragraph.

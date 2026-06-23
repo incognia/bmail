@@ -1,0 +1,16 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 15
+From: N/A
+To: N/A
+Subject: Invoice #64783
+FromToStatus: n_a
+---
+Dear Jenny
+I am writing in connection with the invoice (#64783) which you emailed me yesterday. I'd just
+like to know if the client is aware of the 'extra charges' you have applied to his account.
+Could you also tell me if the client is entitled to a 15% discount? I believe this size of discount
+only applied to customers who had been with us for more than three years.
+Please would you confirm these issues as soon as possible?
+Regards
+John

@@ -1,0 +1,18 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 70
+From: Peter Svenson
+To: Nina Jacobson
+Subject: Purchase order 641P
+FromToStatus: extracted
+---
+Dear Ms Jacobson
+Thank you for your order of 10 March.
+Due to the enormous response we received after our summer promotion, we are experiencing
+a delay in filling some orders.
+We will be able to ship your order within one month.
+We apologise for the delay.
+If you have any queries about the delay, please call me on 2644 8593.
+Best regards
+Peter Svenson
+Customer Services Department

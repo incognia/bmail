@@ -1,0 +1,26 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 54
+From: N/A
+To: N/A
+Subject: iTutor E-Learning Software
+FromToStatus: n_a
+---
+Dear Kevin
+Thank you for your continued interest in iTutor. We are happy that you would like us to
+demonstrate some of the advanced features of the software. And we are confident the
+software will meet your e-learning requirements.
+You mentioned that a good time to meet your team would be the week after next. I've checked
+with Peter Tong, our representative in Singapore, and he is available to meet you on
+Wednesday, 13 September. Would 10am be a convenient time for him to see you?
+I look forward to hearing from you.
+Regards
+Angela
+Email 2 (from the customer)
+In this email, the customer either agrees to the suggested date and time for the meeting, or rejects it
+politely. It is optional to give an excuse. If the date and time are not convenient, the customer will suggest
+an alternative and state the meeting place.
+Model structure (focus on the functional language in bold):
+ Thank the company for replying to you
+ Accept/Reject the suggested meeting time/date / Suggest an alternative / State the meeting place
+ Polite close

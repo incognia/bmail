@@ -1,0 +1,14 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 5
+From: Jessica Best
+To: Howard Chung
+Subject: Discount Query
+FromToStatus: extracted
+---
+Dear Ms Tam
+Following our telephone conversation this morning, I would just like to ask whether you would
+be willing to offer us a further discount if we ordered over 10,000 units from you each month.
+I look forward to hearing your reply.
+Regards
+Jessica Best

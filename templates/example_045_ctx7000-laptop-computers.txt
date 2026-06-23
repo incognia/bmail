@@ -1,0 +1,28 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 45
+From: Peter Toshack
+To: Catherine Jenkins
+Subject: CTX7000 Laptop Computers
+FromToStatus: extracted
+---
+Dear Ms Kwan
+I refer to your fax of 3 March 20xx, regarding the problems you were having with the laptop
+computers we supplied you.
+Since the machines are now out of guarantee, I can only offer the following advice which may
+help correct the problems:
+1. Sticky keys may be the result of storing the laptops in a humid room. If this is the case, I
+would advise you to use a dehumidifier in the room. This would also give greater
+protection to your other equipment.
+2. If you are running a number of laptops or other computer equipment from the same
+electrical socket, this might cause the overheating you described in your letter. For
+safety's sake, no more than two appliances should be run off a single electrical socket.
+3. As far as the loud fan noise is concerned, this could be because the ventilation panels
+on the laptop are being blocked. In this case, you ought to ensure that there is plenty of
+space around the laptop when it is in use.
+I hope that these measures will help correct the problems you have been experiencing. If not,
+please bring the laptops to our repair depot in the Lippo Centre.
+Best regards
+Peter Toshack
+Technical Support
+The PC Shack Ltd

@@ -1,0 +1,25 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 38
+From: N/A
+To: N/A
+Subject: AS Software Installation
+FromToStatus: n_a
+---
+John
+You asked me for some clarification on the AS software installation on your server.
+First, you can use any name for the new set-up directory. You don’t have to use AS_1.
+Second, I can confirm that ‘IT_license’ is the folder that the license file must be extracted to.
+If you have any other queries regarding the installation, please feel free to ask.
+Regards
+Tim
+Note:
+1. If there are more than two clarifications needed, use bulleted or numbered points.
+2. Alternatively, highlight each question in bold or a different colour and place your answer below each
+one.
+Confirming Details/Arrangements
+In cases where you've made verbal arrangements by phone, it's a good idea to email confirmation in
+writing. Use this model structure:
+ Refer to the arrangement
+ Confirm details of the arrangement
+ Polite close

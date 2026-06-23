@@ -1,0 +1,73 @@
+Business Email Examples Index
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page numbering adjusted: cover = 000 (offset -1 from extraction page)
+Total examples: 65
+With From/To: 31
+With From/To as N/A: 34
+
+- example_004_order-ref-no-856.txt | page 4 | From: Darren Traube | To: Hayden Horowitz | Subject: Order Ref. No. 856 | status: extracted
+- example_005_brochure-request.txt | page 5 | From: Moses Wu | To: Helen Jiang | Subject: Brochure Request | status: extracted
+- example_005_discount-query.txt | page 5 | From: Jessica Best | To: Howard Chung | Subject: Discount Query | status: extracted
+- example_005_request-for-catalogue.txt | page 5 | From: Jason Klein | To: Pauline Yates | Subject: Request for Catalogue | status: extracted
+- example_006_draft-contract.txt | page 6 | From: Rudolph Wagner | To: Peter Berger | Subject: Draft Contract | status: extracted
+- example_006_new-sales-manager.txt | page 6 | From: Hugo Prince | To: All Staff | Subject: New Sales Manager | status: extracted
+- example_006_request-for-brochure.txt | page 6 | From: Drew Carpenter | To: Gregory Siegel | Subject: Request for Brochure | status: extracted
+- example_007_administrative-assistant-vacancy.txt | page 7 | From: Suzanne Wiener | To: Kathy Metcalfe | Subject: Administrative Assistant Vacancy | status: extracted
+- example_009_stationery-supplies-ref-58784m.txt | page 9 | From: N/A | To: N/A | Subject: Stationery Supplies (Ref: 58784M) | status: n_a
+- example_013_call-with-andrea-and-charlie.txt | page 13 | From: N/A | To: N/A | Subject: Call with Andrea and Charlie | status: n_a
+- example_013_quality-control-workshop.txt | page 13 | From: N/A | To: N/A | Subject: Quality Control Workshop | status: n_a
+- example_014_function-room-availability.txt | page 14 | From: N/A | To: N/A | Subject: Function Room Availability | status: n_a
+- example_015_flash-software.txt | page 15 | From: N/A | To: N/A | Subject: Flash Software | status: n_a
+- example_015_invoice-64783.txt | page 15 | From: N/A | To: N/A | Subject: Invoice #64783 | status: n_a
+- example_015_vacancies.txt | page 15 | From: N/A | To: N/A | Subject: Vacancies | status: n_a
+- example_018_stationery-supplies.txt | page 18 | From: N/A | To: N/A | Subject: Stationery Supplies | status: n_a
+- example_020_annual-leave-dates.txt | page 20 | From: N/A | To: N/A | Subject: Annual Leave Dates | status: n_a
+- example_021_business-writing-skills-courses.txt | page 21 | From: N/A | To: N/A | Subject: Business Writing Skills Courses | status: n_a
+- example_022_office-renovation.txt | page 22 | From: N/A | To: N/A | Subject: Office Renovation | status: n_a
+- example_023_benson-trading-ltd.txt | page 23 | From: N/A | To: N/A | Subject: Benson Trading Ltd | status: n_a
+- example_024_application-for-sales-manager.txt | page 24 | From: N/A | To: N/A | Subject: Application for Sales Manager | status: n_a
+- example_025_supplier-in-hong-kong.txt | page 25 | From: N/A | To: N/A | Subject: Supplier in Hong Kong | status: n_a
+- example_031_20xx-catalogue.txt | page 31 | From: Jillian Robinson | To: Lionel Chan | Subject: 20xx Catalogue | status: extracted
+- example_031_information-on-our-product-range.txt | page 31 | From: Miguel Cortez | To: Ken Bates | Subject: Information on our Product Range | status: extracted
+- example_032_english-plus-magazine.txt | page 32 | From: Dative Wong | To: Candy Tam | Subject: English Plus Magazine | status: extracted
+- example_032_faulty-prontoprint-typewriters.txt | page 32 | From: Paul Burrows | To: Diana Spencer | Subject: Faulty Prontoprint Typewriters | status: extracted
+- example_033_request-for-advice.txt | page 33 | From: Nancy Suzuki | To: Moon Chiang | Subject: Request for Advice | status: extracted
+- example_033_request-for-financial-aid.txt | page 33 | From: Jeremy Clarkton | To: Frederick Seymoor | Subject: Request for Financial Aid | status: extracted
+- example_034_html-convertable-software-version-3.txt | page 34 | From: Keith Jackson | To: Ruby Pollard | Subject: HTML Convertable Software Version 3 | status: extracted
+- example_034_translation-request.txt | page 34 | From: Angelina Chu | To: Maria Schumaker | Subject: Translation Request | status: extracted
+- example_037_as-software-installation.txt | page 37 | From: N/A | To: N/A | Subject: AS Software Installation | status: n_a
+- example_038_as-software-installation.txt | page 38 | From: N/A | To: N/A | Subject: AS Software Installation | status: n_a
+- example_039_meeting-on-12-september.txt | page 39 | From: N/A | To: N/A | Subject: Meeting on 12 September | status: n_a
+- example_040_corporate-function-6-november.txt | page 40 | From: N/A | To: N/A | Subject: Corporate Function, 6 November | status: n_a
+- example_041_accounting-for-non-financial-managers-presentation.txt | page 41 | From: N/A | To: N/A | Subject: Accounting for Non-Financial Managers Presentation | status: n_a
+- example_041_order-for-computer-equipment.txt | page 41 | From: N/A | To: N/A | Subject: Order for Computer Equipment | status: n_a
+- example_042_accounting-for-non-financial-managers-presentation.txt | page 42 | From: N/A | To: N/A | Subject: Accounting for Non-Financial Managers Presentation | status: n_a
+- example_045_ctx7000-laptop-computers.txt | page 45 | From: Peter Toshack | To: Catherine Jenkins | Subject: CTX7000 Laptop Computers | status: extracted
+- example_046_sound-system-installation-at-jht-ltd.txt | page 46 | From: Bill Havers | To: Kenneth Wong | Subject: Sound System Installation at JHT Ltd | status: extracted
+- example_047_follow-up-to-monday-s-demonstration-at-jvt-powertools.txt | page 47 | From: Colleague to Colleague | To: N/A | Subject: Follow up to Monday's Demonstration at JVT PowerTools | status: n_a
+- example_049_itutor-e-learning-software.txt | page 49 | From: N/A | To: N/A | Subject: iTutor E-Learning Software | status: n_a
+- example_051_itutor-e-learning-software.txt | page 51 | From: N/A | To: N/A | Subject: iTutor E-Learning Software | status: n_a
+- example_052_itutor-e-learning-software.txt | page 52 | From: N/A | To: N/A | Subject: iTutor E-Learning Software | status: n_a
+- example_053_itutor-e-learning-software.txt | page 53 | From: N/A | To: N/A | Subject: iTutor E-Learning Software | status: n_a
+- example_054_itutor-e-learning-software.txt | page 54 | From: N/A | To: N/A | Subject: iTutor E-Learning Software | status: n_a
+- example_055_itutor-e-learning-software-2.txt | page 55 | From: N/A | To: N/A | Subject: iTutor E-Learning Software | status: n_a
+- example_055_itutor-e-learning-software.txt | page 55 | From: N/A | To: N/A | Subject: iTutor E-Learning Software | status: n_a
+- example_061_quotation.txt | page 61 | From: Steven Morrison | To: Tom Daly | Subject: Quotation | status: extracted
+- example_062_it-project.txt | page 62 | From: Susan Yu | To: Jenny Tam | Subject: IT Project | status: extracted
+- example_062_new-software.txt | page 62 | From: Paula Yates | To: Tim Jennings | Subject: New Software | status: extracted
+- example_063_late-delivery-of-order-no-39587.txt | page 63 | From: Ross Cheong | To: John Lee | Subject: Late Delivery of Order No. 39587 | status: extracted
+- example_067_order-confirmation.txt | page 67 | From: Keith Jolsen | To: Jake Adams | Subject: Order Confirmation | status: extracted
+- example_068_request-for-prices.txt | page 68 | From: Roxanne Siegel | To: Jeff Finch | Subject: Request for Prices | status: extracted
+- example_068_your-order.txt | page 68 | From: Ken Smith | To: Jackson Lay | Subject: Your Order | status: extracted
+- example_069_order-no-75893.txt | page 69 | From: Pauline George | To: Rene De Guzman | Subject: Order No. 75893 | status: extracted
+- example_069_shipping-confirmation.txt | page 69 | From: Sarah Danes | To: Matt Dolman | Subject: Shipping Confirmation | status: extracted
+- example_070_order-cancellation.txt | page 70 | From: Pedro Nadal | To: Roger Murray | Subject: Order Cancellation | status: extracted
+- example_070_purchase-order-641p.txt | page 70 | From: Peter Svenson | To: Nina Jacobson | Subject: Purchase order 641P | status: extracted
+- example_071_order-reference-74589g.txt | page 71 | From: Miguel Renaldo | To: Gayle Johnston | Subject: Order Reference 74589G | status: extracted
+- example_072_payment-request.txt | page 72 | From: David Jenas | To: Louis Leclerc | Subject: Payment Request | status: extracted
+- example_098_proposal-for-network-set-up.txt | page 98 | From: N/A | To: N/A | Subject: Proposal for Network Set-up | status: n_a
+- example_098_reference-for-ms-june-tsui.txt | page 98 | From: N/A | To: N/A | Subject: Reference for Ms. June Tsui | status: n_a
+- example_099_request-for-financial-aid.txt | page 99 | From: N/A | To: N/A | Subject: Request for Financial Aid | status: n_a
+- example_100_contract-with-jobsen-ltd.txt | page 100 | From: N/A | To: N/A | Subject: Contract with Jobsen Ltd | status: n_a
+- example_101_staff-punctuality.txt | page 101 | From: N/A | To: N/A | Subject: Staff Punctuality | status: n_a

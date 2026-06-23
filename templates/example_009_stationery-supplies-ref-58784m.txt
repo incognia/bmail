@@ -1,0 +1,27 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 9
+From: N/A
+To: N/A
+Subject: Stationery Supplies (Ref: 58784M)
+FromToStatus: n_a
+---
+Hi Susan
+I refer to our stationery order we put in last week. I would just like to know when our
+stationery order will be delivered. We are running low on printer paper and will need new
+supplies before the end of the week.
+If the delivery won't arrive until next week, could you please let me know which department
+has a surplus supply of paper?
+Please would you confirm this as soon as possible?
+Regards
+Kate
+Enquiry email will vary greatly in length and complexity. Most are usually very short though. Below we
+outline a structure to cater for most possibilities.
+Subject Heading
+Include a subject heading which makes clear what the enquiry is about. For example:
+Model AN126
+Catalogue item number HK383
+Invoice number 3482392
+Annual Leave
+Query about Website
+Question about Accounting Software

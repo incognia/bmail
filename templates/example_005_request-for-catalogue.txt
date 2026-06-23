@@ -1,0 +1,15 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 5
+From: Jason Klein
+To: Pauline Yates
+Subject: Request for Catalogue
+FromToStatus: extracted
+---
+Dear Ms Yates
+I am writing in reference to your advertisement in yesterday's New York Times.
+Could you please send me a copy of your latest catalogue? I would also like to know if it is
+possible to make purchases online.
+I look forward to hearing from you.
+Regards
+Jason Klein

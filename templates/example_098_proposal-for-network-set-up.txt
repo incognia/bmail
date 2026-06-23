@@ -1,0 +1,15 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 98
+From: N/A
+To: N/A
+Subject: Proposal for Network Set-up
+FromToStatus: n_a
+---
+Dear Ms Wang
+Thank you for your email of 10 November 20xx. We find your proposal to be mostly acceptable.
+There are still a few points which we need to discuss with you and we suggest that we have a
+further meeting within the next few days to clarify them.
+Please could you inform our secretary, Ms Iris Yip, as soon as possible about when you are
+available?
+Yours sincerely

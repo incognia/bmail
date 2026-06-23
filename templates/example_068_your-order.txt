@@ -1,0 +1,17 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 68
+From: Ken Smith
+To: Jackson Lay
+Subject: Your Order
+FromToStatus: extracted
+---
+Dear Mr Lay
+Thank you for sending me your catalogue.
+I would like to order the following items:
+ 2 Ladies Mountain Bikes (Item no: LL0129) £500
+ 2 Child Safety Seats (Item no: LJ 9825) £80
+ Total: £580
+I have enclosed a cheque for £600 which includes the packaging and postal costs.
+Best regards
+Ken Smith

@@ -1,0 +1,16 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 70
+From: Pedro Nadal
+To: Roger Murray
+Subject: Order Cancellation
+FromToStatus: extracted
+---
+Dear Mr Murray
+Thank you for your email informing me of a three week delay in the fulfilment of my order, ref
+JK / 209.
+Unfortunately, I am unable to wait any longer for the arrival of the goods. Please cancel my
+order.
+Please could you send me confirmation that you have cancelled my order?
+Regards
+Pedro Nadal

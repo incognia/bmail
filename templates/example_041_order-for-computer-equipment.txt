@@ -1,0 +1,19 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 41
+From: N/A
+To: N/A
+Subject: Order for Computer Equipment
+FromToStatus: n_a
+---
+Dear Mr Jeffries
+This is to confirm your order for computer equipment placed by phone on 22 October.
+The details of your order are as follows:
+ 6 x 19” LCD Sony Monitor @ $192 each
+ 4 x JCX9 Laser Printers @ $150 each
+ Total cost: $1,772
+We will invoice you separately for this order.
+I’d like to confirm that we will deliver these items to you on 26 October between 1 and 5 pm.
+If you have any questions regarding your order, please call us on 2516 3823.
+Best regards
+Jack

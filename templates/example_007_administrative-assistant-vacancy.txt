@@ -1,0 +1,15 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 7
+From: Suzanne Wiener
+To: Kathy Metcalfe
+Subject: Administrative Assistant Vacancy
+FromToStatus: extracted
+---
+Dear Ms Metcalfe
+Further to your advertisement for the position of Administrative Assistant advertised in The
+South China Morning Herald on 14 December, I am interested in applying for this position.
+I have attached my job application covering letter and resume.
+I look forward to hearing from you.
+Best regards
+Suzanne Wiener

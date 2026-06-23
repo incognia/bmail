@@ -1,0 +1,16 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 55
+From: N/A
+To: N/A
+Subject: iTutor E-Learning Software
+FromToStatus: n_a
+---
+Dear Kevin
+Thank you for your reply.
+I've checked with Peter Tong and he' been able to reschedule another meeting in order to meet
+you. He's now free to meet you on Thursday, 14 September at 10am. He will come to your
+office on the fourth floor and wait in reception for you.
+In the meantime, if you need to contact Peter directly, you can reach him on 94678549.
+Regards
+Angela

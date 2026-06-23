@@ -1,0 +1,25 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 24
+From: N/A
+To: N/A
+Subject: Application for Sales Manager
+FromToStatus: n_a
+---
+Dear Robert
+I regret to inform you that your internal application for the position of Sales Manager has not
+been successful.
+We felt that although you have performed exceptional well over the past year, you still lack
+experience in handling larger, more complex accounts.
+In view of this, we have decided to recruit someone externally.
+With immediate effect, however, we would like to offer you a 10% rise in your basic salary and
+increase your commission rate to 2.7%.
+We hope this will encourage you to remain with the company.
+Best regards
+Julie Simpson
+Notes:
+In this email, the purpose statement gives bad news. We use phrases such as "I regret to inform you that..."
+and "I'm sorry to let you know that..." to indicate that bad news will follow.
+The second and third paragraphs provide further details about the main point.
+The fourth paragraph includes an offer, which is indirectly related to the main point.
+The closing paragraph is positive and courteous.

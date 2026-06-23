@@ -1,0 +1,21 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 14
+From: N/A
+To: N/A
+Subject: Function Room Availability
+FromToStatus: n_a
+---
+Dear Ms Jones
+I am writing to enquire about the availability of function rooms at your hotel from 19 to 23
+December this year.
+As Chairman of the Christmas Party Committee, I am trying to find a suitable hotel for our
+function. Your information would be extremely valuable and much appreciated.
+I would appreciate it if you could provide me with the following information:
+ The availability of function rooms between the above dates with a capacity to hold 60
+people.
+ The services available such as food, drinks and entertainment.
+I would be grateful if you could email me the relevant information in the near future.
+If you have any queries, please call me on 26464638.
+I look forward to hearing from you soon.
+Yours sincerely

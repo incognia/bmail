@@ -1,0 +1,15 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 69
+From: Sarah Danes
+To: Matt Dolman
+Subject: Shipping Confirmation
+FromToStatus: extracted
+---
+Dear Mr Dolman
+I am writing to confirm that your order was shipped on 26 July.
+We expect it to arrive within a week. If, however, you experience any delays, please feel free to
+call me.
+Best regards
+Sarah Danes
+Customer Services Manager

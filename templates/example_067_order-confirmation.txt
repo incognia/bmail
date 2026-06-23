@@ -1,0 +1,16 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 67
+From: Keith Jolsen
+To: Jake Adams
+Subject: Order Confirmation
+FromToStatus: extracted
+---
+Dear Mr Adams
+Following our telephone conversation this morning, I am happy to confirm my order.
+The details are as follows:
+ 1500 x Unit 05 @ US$ 10.00
+ 1000 x Unit 09 @ US$ 5.00
+I look forward to receiving your invoice, which I understand will be subject to a 5% discount.
+Best regards
+Keith Jolsen

@@ -1,0 +1,16 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 15
+From: N/A
+To: N/A
+Subject: Vacancies
+FromToStatus: n_a
+---
+Dear Mr Turner
+I am writing to ask if you have any vacancies in your sales department.
+I have just graduated from Hong Kong University with a degree in marketing and would like to
+gain some experience in an entry level position.
+I have attached my CV for your reference.
+I look forward to hearing from you.
+Kind regards
+Thomas Lambert

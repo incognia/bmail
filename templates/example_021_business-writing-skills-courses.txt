@@ -1,0 +1,30 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 21
+From: N/A
+To: N/A
+Subject: Business Writing Skills Courses
+FromToStatus: n_a
+---
+All Staff
+Please note that we will be conducting a number of business writing skills courses in-house
+over the next year.
+The details of the first round of courses are as follows:
+ Course Title: Business Writing Skills
+ Levels: 1, 2 and 3
+ Date: 5 August to 17 September
+ Time: Monday and Thursday Evenings, 7 to 9 p.m.
+If you would like to enrol on a course, you will first need to take an assessment test to
+determine your English level with regards to writing. We will hold a testing session on 12 July at
+6 pm in Conference Room 2. The test will take no longer than 60 minutes to complete.
+If you would like to enrol on a course, please complete the attached form and return it to me
+by 3 July.
+I hope that many of you will take this opportunity to brush up on your writing skills.
+Regards
+Jane Hampton
+TRAINING MANAGER
+Notes:
+'Please note' is a neutral expression which is often used with circulars addressed to groups of people.
+This email is a little more complex. It includes a purpose statement, a second paragraph giving information
+in the form of a bulleted list, a third paragraph providing further information, a fourth paragraph making a
+request, and a positive closing paragraph related to the subject.

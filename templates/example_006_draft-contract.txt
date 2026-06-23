@@ -1,0 +1,15 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 6
+From: Rudolph Wagner
+To: Peter Berger
+Subject: Draft Contract
+FromToStatus: extracted
+---
+Dear Mr Berger
+With regard to the questions you raise about the draft contract in your fax of 1 July, I think it
+best if I meet you to clarify everything.
+Are you free on Thursday afternoon around 2 pm?
+I hope to see you then.
+Regards
+Rudolph Wagner

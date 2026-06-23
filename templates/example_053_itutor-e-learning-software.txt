@@ -1,0 +1,24 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 53
+From: N/A
+To: N/A
+Subject: iTutor E-Learning Software
+FromToStatus: n_a
+---
+Dear Kevin
+Thank you for providing us with more information on the iTutor authoring software and for
+offering to demonstrate the software to us.
+Our IT team have evaluated the online demo version of iTutor but have a number of queries
+regarding some of the advanced features of the software. They would welcome a face-to-face
+demonstration.
+Next week, several key members of the team will be away at a conference, so could you come
+to our office some time during the following week?
+I look forward to hearing from you.
+Regards
+Angela
+Agreeing on a Time and Place
+Once a customer has agreed to meet you, there might be a number of short email going back and forth to
+agree on a suitable time and place for the meeting, and a final email from you confirming the details of the
+meeting. In some cases, the complete arrangement may be made in a single email and confirmed by you in
+the next.

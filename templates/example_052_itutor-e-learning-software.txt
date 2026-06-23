@@ -1,0 +1,25 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 52
+From: N/A
+To: N/A
+Subject: iTutor E-Learning Software
+FromToStatus: n_a
+---
+Dear Kevin
+Thank you for providing us with more information on the iTutor authoring software.
+This year we will be evaluating iTutor and a number of other similar products on the market. I
+appreciate your offer to demonstrate the product to us. If we are interested in purchasing
+iTutor, we'll get in contact with you later in the year.
+In the meantime, if we have any questions about iTutor, we will let you know.
+Regards
+Angela
+Accept a Request
+If a company accepts a request for a meeting, the response email will be a little longer than the two emails
+above. This is because you will need to provide details of your availability and perhaps suggest a suitable
+time and place for the meeting.
+Model structure:
+ Thank the company for replying to you
+ Explain what your current interest is in the product/service; politely accept meeting
+ State your availability / Suggest a time and place to meet
+ Polite close

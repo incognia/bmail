@@ -1,0 +1,18 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 31
+From: Jillian Robinson
+To: Lionel Chan
+Subject: 20xx Catalogue
+FromToStatus: extracted
+---
+Dear Mr Chan
+Thank you for your email of 12 September requesting the latest edition of our catalogue.
+We are pleased to inform you that we have mailed our brochure to the address you provided
+us with.
+We would also like to inform you that it is possible to make purchases online at
+www.jacksonbros.com. Furthermore, you will receive a discount of 10% for any purchases
+made online.
+We look forward to welcoming you as our customer.
+Best regards
+Jillian Robinson

@@ -1,0 +1,19 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 13
+From: N/A
+To: N/A
+Subject: Quality Control Workshop
+FromToStatus: n_a
+---
+Dear Helen
+I am writing to enquire whether your company could offer a workshop on Quality Control for
+our managers.
+The Quality Control training workshop (Ref.: QC 104) detailed in your corporate brochure might
+be suitable for us. I would like to know if it is possible for you to offer a 3-day training workshop
+starting before October 20xx, for a group of 10.
+In addition, could you send us some background information about the trainer you would use
+to conduct the workshop?
+I am looking forward to hearing from you.
+Best regards
+Samantha Rogers

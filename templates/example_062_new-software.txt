@@ -1,0 +1,19 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 62
+From: Paula Yates
+To: Tim Jennings
+Subject: New Software
+FromToStatus: extracted
+---
+Dear Tim
+Thank you for informing me about the problems you’ve been experiencing with the software
+we created for you last month.
+I’ve spoken with the chief programmer and he’s informed me that a number of bugs have been
+discovered.
+I really must apologise for not spotting the problems before we gave you the software.
+The chief programmer has assured me that all bugs will have been fixed by the end of this
+week. He will then create a new download link for you.
+Once again please accept my apologies for any inconvenience caused.
+Best regards
+Paul

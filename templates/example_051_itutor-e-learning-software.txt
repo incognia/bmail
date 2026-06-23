@@ -1,0 +1,20 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 51
+From: N/A
+To: N/A
+Subject: iTutor E-Learning Software
+FromToStatus: n_a
+---
+Dear Kevin
+Thank you for following up on our request for more information on the iTutor authoring
+software.
+Our IT team is currently evaluating the software through the free trial version you have
+provided us with. I don't think we require a demonstration of the software at this stage.
+If the software meets our requirements, we will place an order.
+Regards
+Angela
+Delay a Request
+A customer may be interested in your product or service but may need more time to conduct their own
+evaluation into the product through the literature you've provided them. Purchasing the product or service
+may not be an immediate priority for the customer, so they may want to postpone any meeting until later.

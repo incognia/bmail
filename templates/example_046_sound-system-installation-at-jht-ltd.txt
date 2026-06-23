@@ -1,0 +1,28 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 46
+From: Bill Havers
+To: Kenneth Wong
+Subject: Sound System Installation at JHT Ltd
+FromToStatus: extracted
+---
+Dear Mr Wong
+I refer to your email of 27 March 20xx describing the problems you have been having with the
+sound and public address system we installed in you factory last month.
+From your letter it seems that there are two basic problems. First, the sound is not very clear.
+Second, you state the public address feature has not functioned since it was installed.
+1. The cause of the first of these problems could be obstructions to the speakers which
+might create the effect you describe. In order to avoid this problem, you should ensure
+that all speakers are clear of obstructions. Note that obstructions can lead to
+overheating as well, and this is not good for your equipment.
+2. As far as the public address system is concerned, there might be something heavy
+standing on the wiring, cutting the signal. When we installed the system, we
+recommended that the wiring should be hidden in order to avoid this problem.
+3. Checking the wiring for this might cause the public address feature to start to work.
+I hope that the enclosed advice will help you to solve the problems you have been having with
+the equipment. If this advice does not fix the problems, please feel free to contact me again,
+and I shall arrange for one of our engineers to visit you in the near future.
+Yours sincerely
+Bill Havers
+Head Engineer
+Product Support Department

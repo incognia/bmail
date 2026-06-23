@@ -1,0 +1,16 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 101
+From: N/A
+To: N/A
+Subject: Staff Punctuality
+FromToStatus: n_a
+---
+It has been noted that a considerable number of employees are consistently late for duty.
+Furthermore, it is known that many of them arrive improperly dressed.
+As a result, further time is lost while they are changing.
+This practice can no longer be tolerated!
+Employees are warned, therefore, that company regulations on punctuality, including being
+properly dressed at the start of the working day, must be observed.
+It is hoped that this initial warning will be sufficient to ensure correct procedures are followed
+in the future; however, in case of further infringements, individual cautions will be issued.

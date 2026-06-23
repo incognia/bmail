@@ -1,0 +1,14 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 6
+From: Hugo Prince
+To: All Staff
+Subject: New Sales Manager
+FromToStatus: extracted
+---
+Dear Ms Renoir
+As you may already have heard, Roger Chan is to become the new Sales Manager effective
+from 12 August.
+If you have any queries regarding this appointment, please call Ruby To on 2617 3782.
+Regards
+Hugo Prince

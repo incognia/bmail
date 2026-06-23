@@ -1,0 +1,18 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 72
+From: David Jenas
+To: Louis Leclerc
+Subject: Payment Request
+FromToStatus: extracted
+---
+Dear Mr Leclerc
+Thank you for your order of June 6.
+Unfortunately we are unable to process this order as we require full payment in advance as
+well as shipping costs for overseas customers.
+I would be extremely grateful if you would arrange for a bankers draft for the sum of USD$950.
+(Details attached.)
+I look forward to being able to help you in the near future.
+Best regards
+David Jenas
+Accounts Manager

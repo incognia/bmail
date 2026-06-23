@@ -1,0 +1,19 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 37
+From: N/A
+To: N/A
+Subject: AS Software Installation
+FromToStatus: n_a
+---
+Tim
+I’ve received your instructions for the installation of the AS software on our server. However,
+I’d like you to clarify a couple of issues.
+I’m a little confused about the name of the new directory we have to set up on our server. Can
+you clarify if the directory has to be called AS1 or if we can use any name?
+Also, I’m not sure where to extract the license file to. Can you clarify which is the correct
+folder?
+I would be grateful if you could clarify these two issues.
+I look forward to hearing from you.
+Regards
+John

@@ -1,0 +1,17 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 34
+From: Keith Jackson
+To: Ruby Pollard
+Subject: HTML Convertable Software Version 3
+FromToStatus: extracted
+---
+Dear Ms Pollard
+I have received your email of 1 December requesting an upgrade to the above software.
+I have checked your record and see that you purchased Version 2 of the software on 12 August
+20xx. Since we provide free upgrades for up to six months after a purchase has been made, I
+am sorry to inform you that we are unable to provide you with an upgrade. If you would like
+Version 3, you can purchase it from our website.
+Please contact me if I can be of further assistance to you.
+Regards
+Keith Jackson

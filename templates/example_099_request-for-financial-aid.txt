@@ -1,0 +1,19 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 99
+From: N/A
+To: N/A
+Subject: Request for Financial Aid
+FromToStatus: n_a
+---
+Dear Mr Leung
+Thank you for your email of 21 October 20xx. We are now processing your request for financial
+aid.
+However, in order for us to complete the request, we require the document labelled UB30. If
+you do not have this document, you can obtain it from our Wanchai office. Furthermore, we
+expect that you type your details on the form. We would advise you to mail the completed
+form to us by registered post to avoid any chance of losing it.
+After we receive the document, we hope to be able to reach a decision regarding your case
+within two weeks. We will inform you as soon as we decide.
+Please feel free to contact us if you have any queries.
+Yours sincerely

@@ -1,0 +1,14 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 15
+From: N/A
+To: N/A
+Subject: Flash Software
+FromToStatus: n_a
+---
+Naomi
+Could you tell me if you have anyone in your department who is familiar with Flash software?
+We'd like to make some minor changes to a file.
+I hope to hear from you soon.
+Regards
+John

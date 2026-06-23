@@ -1,0 +1,20 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 20
+From: N/A
+To: N/A
+Subject: Annual Leave Dates
+FromToStatus: n_a
+---
+Dear Kim
+I would just like to let you know that I’ll be on annual leave from 12 to 24 July.
+During my absence, Paula Yu will be handling my duties. If you have any queries regarding any
+of the accounts I handle, please contact Paula during this period.
+In case of an emergency, you can reach me on 947858938.
+Regards
+Jessie
+Notes:
+What's the difference between: 'I would like to inform you' and 'I would just like to inform you'?
+We add the word 'just' to indicate that we're giving just one small piece of information.
+This is a typical 3-paragraph email with a purpose statement, further details and a polite but informative
+close.

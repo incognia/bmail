@@ -1,0 +1,25 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 22
+From: N/A
+To: N/A
+Subject: Office Renovation
+FromToStatus: n_a
+---
+Dear Roger
+Thank you for meeting me yesterday to discuss our requirements for the office renovation. I
+would just like to inform you that the work schedule will need to be postponed by one week
+due to internal reasons.
+Please also note that all your workers will need to be issued with security passes before they
+can enter our premises. Could you contact me on 2647 4783 to arrange this?
+If you have any queries, please let me know.
+Regards
+Sam Davis
+Notes:
+In this email, the writer makes a clear reference to the main topic by referring to a recent meeting. He says:
+"Thank you for meeting me yesterday to discuss our requirements for the office renovation." This is
+followed by the purpose statement. The reference helps to clarify the purpose statement.
+There is no need to expand on the purpose statement. Instead, the writer provides new information. He
+indicates this by adding the word 'also': "Please also note that .....". He could also have said: "In addition,
+please note that..." or "Furthermore, please note that..."
+The email uses a standard closing paragraph.

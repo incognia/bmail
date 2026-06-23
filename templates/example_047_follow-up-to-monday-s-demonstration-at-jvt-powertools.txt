@@ -1,0 +1,14 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 47
+From: Colleague to Colleague
+To: N/A
+Subject: Follow up to Monday's Demonstration at JVT PowerTools
+FromToStatus: n_a
+---
+Can we get together sometime later this week to discuss what we saw at JVT Powertools on
+Monday? We really ought to think about buying a batch of their K5 drills. What about
+Wednesday at 10?
+Also, as JVT were so hospitable to us when we visited them, perhaps it would be a good idea if
+we sent them a quick thank you letter, expressing our appreciation.
+Could you give me a call me if you can't make the Wednesday meeting?

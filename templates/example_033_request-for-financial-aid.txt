@@ -1,0 +1,16 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 33
+From: Jeremy Clarkton
+To: Frederick Seymoor
+Subject: Request for Financial Aid
+FromToStatus: extracted
+---
+Dear Mr Seymoor
+I have received your email of 3 September requesting financial aid from our organisation for
+your continuing education.
+I regret to inform you that we have a policy of not providing financial assistance to anyone who
+is not an employee of this organisation.
+I hope you are successful at finding funding elsewhere.
+Best regards
+Jeremy Clarkton

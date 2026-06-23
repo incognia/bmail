@@ -1,0 +1,18 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 34
+From: Angelina Chu
+To: Maria Schumaker
+Subject: Translation Request
+FromToStatus: extracted
+---
+Hi Maria
+I refer to your email of 14 July requesting us to translate the document entitled "Business
+Success in Japan" into Chinese.
+We would be pleased to translate the document at our normal rates and according to the
+terms and conditions of our agreement we have with your organisation.
+Could you clarify whether you would like the translation in simplified or traditional Chinese?
+Once we have this information, we will be able to email the translation to you by 20 July.
+I look forward to hearing from you.
+Regards
+Maria

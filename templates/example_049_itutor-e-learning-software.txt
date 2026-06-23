@@ -1,0 +1,19 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 49
+From: N/A
+To: N/A
+Subject: iTutor E-Learning Software
+FromToStatus: n_a
+---
+Dear Angela
+Thank you for your interest in iTutor E-Learning Software. From your enquiry email, you asked
+if iTutor is suitable for creating interactive simulations of complex processes. The short answer
+is 'Yes.'
+iTutor is a powerful authoring program which has a number of very interesting features which
+we'd like to show you in person. Could we arrange a time for one of representatives to
+demonstrate and explain the advantages of using iTutor over other similar software programs?
+I would be grateful if you could let me have your availability over the coming weeks. The
+demonstration will take up no more than 30 minutes of your time.
+I look forward to hearing from you.
+Regards

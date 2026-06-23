@@ -1,0 +1,18 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 42
+From: N/A
+To: N/A
+Subject: Accounting for Non-Financial Managers Presentation
+FromToStatus: n_a
+---
+Peter
+Regarding the presentation “Accounting for Non-Financial Managers” you will give on 1
+November, I’d like to make the following clarifications:
+1. I can confirm that none of the attendees has any financial management experience.
+2. I’d also like to confirm that there will be no more than 10 attendees.
+The presentation should last for 1 hour. We’ve scheduled 20 minutes for questions and
+answers at the end of the presentation.
+Please call me on 2746 4893 if you have any further issues.
+Regards
+Ben

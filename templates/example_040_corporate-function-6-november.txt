@@ -1,0 +1,19 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 40
+From: N/A
+To: N/A
+Subject: Corporate Function, 6 November
+FromToStatus: n_a
+---
+Jason
+I would just like to confirm the arrangements for your corporate function on 6 November at the
+Elizabeth Hotel.
+The details are as follows:
+ Large function room booked from 6 to 12 pm.
+ Catering provided for 120 guests – 3-course dinner
+ Jazz band to perform from 9.30 to 11.30 pm.
+ Cost per head: $85
+If you have any queries about these arrangements, please let me know.
+Regards
+William

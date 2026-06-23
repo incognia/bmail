@@ -1,0 +1,15 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 100
+From: N/A
+To: N/A
+Subject: Contract with Jobsen Ltd
+FromToStatus: n_a
+---
+Many complaints have been made to the Manager of Jobsen Ltd and he has had enough
+opportunity to explain the worsening in the quality of their services.
+He has, however, failed to reply to our letters (copies of these are attached). In addition,
+whenever one of our representatives attempts to contact him, either personally or by
+telephone, he is always unavailable.
+In view of this, it is recommended that the contract with Jobsen be examined and that the legal
+department be asked what action can be taken against them.

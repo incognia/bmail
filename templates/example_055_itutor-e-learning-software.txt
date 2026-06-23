@@ -1,0 +1,23 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 55
+From: N/A
+To: N/A
+Subject: iTutor E-Learning Software
+FromToStatus: n_a
+---
+Dear Kevin
+Thank you for getting back to us on a time for the demonstration.
+I've checked with the IT team and 13 September is not convenient as the team will be
+conducting the monthly check on our IT systems. How about Thursday, 14 September at 10am?
+Could you come to the reception on the fourth floor?
+Please let me know if this arrangement is convenient for you.
+Regards
+Angela
+Email 3 (to the customer)
+This should be the final email in the series if the alternative meeting date and time is convenient for you. In
+this email you will confirm all the details of the meeting.
+Model structure:
+ Thank the company for replying to you
+ Agree to alternative meeting date/time / confirm meeting date/time/place
+ Polite close

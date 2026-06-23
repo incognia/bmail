@@ -1,0 +1,22 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 61
+From: Steven Morrison
+To: Tom Daly
+Subject: Quotation
+FromToStatus: extracted
+---
+Dear Tom
+We appreciate your informing us about the errors in the quotation relating to the price of the
+building materials. Thank you for bringing this matter to our attention.
+I have spoken to the building materials supplier and the manager has informed me that his
+assistant typed in the wrong prices for the materials. His assistant was referring to their old
+price list which didn't include the new discounts.
+I would like to apologise for the error and would like to assure you that it was an honest
+mistake.
+The building materials supplier manager is now revising the quotation and will fax it to you this
+afternoon.
+Thank you once again for bringing this to our attention. We hope that you have not been too
+inconvenienced.
+Best regards
+Steven Morrison

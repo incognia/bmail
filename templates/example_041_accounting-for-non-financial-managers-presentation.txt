@@ -1,0 +1,19 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 41
+From: N/A
+To: N/A
+Subject: Accounting for Non-Financial Managers Presentation
+FromToStatus: n_a
+---
+James
+I’d just like to clarify a few points about the presentation you’d like me to give on “Accounting
+for Non-Financial Managers” on 1 November.
+First, can you clarify whether the attendees have any financial management experience?
+Second, can you confirm that the maximum number of attendees will be 10?
+And finally, can you clarify how long the presentation should last and whether we should
+include a question and answer session?
+As time is short, I’d appreciate it if you could get back to me on these points as soon as
+possible.
+Best regards
+Nancy

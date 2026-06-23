@@ -1,0 +1,21 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 63
+From: Ross Cheong
+To: John Lee
+Subject: Late Delivery of Order No. 39587
+FromToStatus: extracted
+---
+Dear Mr Lee
+Thank you for your fax of 16 July regarding the delay in delivery of your order for electronic
+components. I appreciate your bringing this matter to my attention.
+I have checked the matter with our distribution officer who informed me that we have been
+experiencing a number of problems with the new transport company. I am afraid that the delay
+in delivery was due to their unreliability.
+I really must apologize for the inconvenience you have been caused. I assure you of a more
+reliable delivery service in the future.
+Meanwhile, I can arrange for the overdue order to be delivered to your factory by messenger
+within two days.
+If this arrangement is acceptable to you, please contact me as soon as possible.
+Best regards
+Ross Cheong

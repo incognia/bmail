@@ -1,0 +1,30 @@
+# macOS metadata
+.DS_Store
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python libraries / build artifacts
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# Notebook / interpreter caches
+.ipynb_checkpoints/
+
+# Local source material (kept out of VCS)
+docs/business_email.pdf

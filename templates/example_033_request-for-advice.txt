@@ -1,0 +1,18 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 33
+From: Nancy Suzuki
+To: Moon Chiang
+Subject: Request for Advice
+FromToStatus: extracted
+---
+Dear Ms Chiang
+I refer to your email of 12 November requesting technical advice for the operation of your new
+laptop.
+I'm afraid that we are unable to provide you with any advice since you did not take out our
+insurance policy when you purchased the laptop.
+You can, however, receive advice by calling our technical help hotline on 2674 3845. Calls are
+charged at a premium rate of $1.50 per minute.
+If you have any questions, please let me know.
+Regards
+Nancy Suzuki

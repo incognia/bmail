@@ -1,0 +1,14 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 39
+From: N/A
+To: N/A
+Subject: Meeting on 12 September
+FromToStatus: n_a
+---
+Dear Janice
+I would just like to confirm the details of the meeting that we arranged today.
+My colleague, Ruth Palmer, will meet you at your office on 12 September at 3.30 pm.
+In case you need to contact Ruth, you can reach her on 947858493.
+Best regards
+Susan

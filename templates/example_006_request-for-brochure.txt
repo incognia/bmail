@@ -1,0 +1,14 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 6
+From: Drew Carpenter
+To: Gregory Siegel
+Subject: Request for Brochure
+FromToStatus: extracted
+---
+Dear Ms Chiang
+I have received your email of 26 November requesting a copy of our corporate brochure.
+As you requested, I have attached our brochure, together with our current price list.
+If you would like any further information, please contact us.
+Regards
+Drew Carpenter

@@ -1,0 +1,14 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 5
+From: Moses Wu
+To: Helen Jiang
+Subject: Brochure Request
+FromToStatus: extracted
+---
+Dear Ms Jiang
+Thank you for your fax of 22 September enquiring about our services.
+Further to this, I have attached our latest brochure and price list.
+If you have any questions, please feel free to call me.
+Best regards
+Moses Wu

@@ -1,0 +1,17 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 32
+From: Dative Wong
+To: Candy Tam
+Subject: English Plus Magazine
+FromToStatus: extracted
+---
+Dear Ms Tam
+Thank you for your email of 17 August requesting a complimentary copy of English Plus
+Magazine.
+I am pleased to let you know that we mailed our most recent issue to you this morning.
+If you would like to subscribe to English Plus Magazine, please complete the form on page 22 of
+the current issue. Alternatively, you can subscribe online by visiting our website.
+We hope you enjoy reading the magazine and look forward to receiving your order.
+Regards
+Dative Wong

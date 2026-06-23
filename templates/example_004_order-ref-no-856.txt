@@ -1,0 +1,15 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 4
+From: Darren Traube
+To: Hayden Horowitz
+Subject: Order Ref. No. 856
+FromToStatus: extracted
+---
+Dear Mr Horowitz
+With reference to our telephone conversation today, I am writing to confirm your order for:
+120 Cheddar Deluxe, Order Ref. No. 856.
+We will deliver the order to your premises on 14 August.
+If you have any questions regarding the order, please call us.
+Best regards
+Darren Traube

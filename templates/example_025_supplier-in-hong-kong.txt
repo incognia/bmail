@@ -1,0 +1,27 @@
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+SourceFile: docs/business_email.pdf
+Page: 25
+From: N/A
+To: N/A
+Subject: Supplier in Hong Kong
+FromToStatus: n_a
+---
+Jim
+Following our meeting last week, I am sorry to let you know that we’ve decided to use another
+supplier.
+Although the other supplier was slightly more costly, they were able to guarantee us shorter
+and more reliable delivery times. As you know, this was the main concern we had with your
+proposal.
+If, however, you are able to resolve the problems you have with shipping from your China
+factory, we would be willing to consider you again in the future.
+Thank you for your time.
+Best regards
+Jonathan Balick
+Notes:
+The opening paragraph includes a reference, "Following our meeting last week," and a purpose statement.
+The purpose statement begins with the functional phrase, "I am sorry to let you know that.." This is a
+common phrase for introducing bad news.
+The second paragraph details the reason for using another supplier.
+The third paragraph indicates that the door is still open to this supplier. This helps to soften the tone of the
+email and promotes goodwill.
+The closing paragraph is positive and courteous.
