@@ -2,6 +2,8 @@
 
 ## [2026-06-22] - Referencias bibliográficas y trazabilidad de fuentes
 
+- docs: incorporé referencias cruzadas al repositorio `rules`, incluyendo rutas local/remota y vínculos a `SKILL`, CoT y ruleset de `bmail`.
+- docs: añadí en `README.md` un ejemplo concreto de plantilla en `~/rules/templates/bmail/` y ejemplos de uso del skill `bmail`.
 - docs: prioricé la cita bibliográfica del libro como fuente principal en la documentación del repositorio.
 - chore: agregué `docs/business_email.pdf` a `.gitignore` para excluir el insumo local del control de versiones.
 - refactor: actualicé los scripts de extracción e índice para emitir `Source` con referencia bibliográfica y `SourceFile` como trazabilidad técnica.
