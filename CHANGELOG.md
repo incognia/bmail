@@ -2,6 +2,8 @@
 
 ## [2026-06-22] - Referencias bibliográficas y trazabilidad de fuentes
 
+- feat: agregué `scripts/discover_site_pdfs.py` para descubrir PDFs del sitio, emitir salida JSON y descargar los archivos encontrados.
+- chore: añadí `downloads/` a `.gitignore` para excluir artefactos descargados del control de versiones.
 - docs: documenté la URL oficial de descarga `https://www.languagekey.com/business_email.pdf` en `README.md` y `docs/README.md`.
 - refactor: actualicé los scripts de extracción e índice para usar la URL oficial del PDF en la referencia bibliográfica generada.
 - docs: corregí las referencias `Source` del dataset (`templates/example_*.txt` e índice consolidado) para apuntar a la URL oficial de descarga.
