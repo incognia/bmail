@@ -13,7 +13,7 @@ from pathlib import Path
 
 BOOK_REFERENCE = (
     "Chris. Business Email: Language, Structure and Style. "
-    "The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com"
+    "The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: https://www.languagekey.com/business_email.pdf"
 )
 
 

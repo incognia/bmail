@@ -8,7 +8,7 @@ Construir una base de ejemplos de correos de negocio en inglés para:
 - y tener una referencia rápida por asunto y página.
 
 ## Fuente principal
-- Obra bibliográfica: Chris. *Business Email: Language, Structure and Style*. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+- Obra bibliográfica: Chris. *Business Email: Language, Structure and Style*. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: https://www.languagekey.com/business_email.pdf
 - Ficha bibliográfica local: `docs/README.md`
 - Archivo PDF local de trabajo: `docs/business_email.pdf`
 - Total de páginas del PDF: 108

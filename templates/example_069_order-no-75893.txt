@@ -1,4 +1,4 @@
-Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+Source: Chris. Business Email: Language, Structure and Style. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: https://www.languagekey.com/business_email.pdf
 SourceFile: docs/business_email.pdf
 Page: 69
 From: Pauline George

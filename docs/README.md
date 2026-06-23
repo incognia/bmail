@@ -5,7 +5,8 @@
 - **Autor (metadatos PDF):** Chris
 - **Entidad editora/publicadora:** The Language Key Ltd
 - **Descripción de la entidad:** Business English Training Consultants in Hong Kong since 1994
-- **URL institucional:** http://www.languagekey.com
+- **URL institucional:** https://www.languagekey.com
+- **URL de descarga oficial del PDF:** https://www.languagekey.com/business_email.pdf
 - **Correo de contacto:** enquiry@languagekey.com
 - **Formato:** PDF
 - **Extensión:** 108 páginas
@@ -19,7 +20,7 @@
 - **Fecha de modificación del archivo (metadata):** 2015-11-17
 
 ## Referencia sugerida (formato breve)
-Chris. *Business Email: Language, Structure and Style*. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: http://www.languagekey.com
+Chris. *Business Email: Language, Structure and Style*. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: https://www.languagekey.com/business_email.pdf
 
 ## Nota
 La autoría y el año se toman de metadatos internos del PDF. Si necesitas una cita académica estricta (APA 7, MLA, Chicago), conviene validar en la portada o ficha legal de la obra original.
