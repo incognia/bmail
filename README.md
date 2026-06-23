@@ -133,3 +133,9 @@ Comportamiento esperado:
 
 ## Próximo paso sugerido
 Copiar/migrar estos ejemplos al repositorio de reglas para usarlos como fuente directa en `~/rules/templates/bmail/` y en el *skill* `bmail`.
+
+---
+
+*Este proyecto fue elaborado por Rodrigo Álvarez (@incognia) y se distribuye bajo la licencia GPLv3. Para más detalles, consulta el archivo LICENSE.*
+
+*Copyright © 2026, Rodrigo Ernesto Álvarez Aguilera. Este es software libre bajo los términos de la GNU General Public License v3.*

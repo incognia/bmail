@@ -2,6 +2,8 @@
 
 ## [2026-06-22] - Referencias bibliográficas y trazabilidad de fuentes
 
+- build: agregué el archivo `LICENSE` con el texto oficial de GNU GPLv3 para licenciamiento personal del proyecto.
+- docs: añadí al `README.md` el pie de licencia GPLv3 y la línea de copyright 2026 con atribución personal.
 - docs: incorporé referencias cruzadas al repositorio `rules`, incluyendo rutas local/remota y vínculos a `SKILL`, CoT y ruleset de `bmail`.
 - docs: añadí en `README.md` un ejemplo concreto de plantilla en `~/rules/templates/bmail/` y ejemplos de uso del skill `bmail`.
 - docs: prioricé la cita bibliográfica del libro como fuente principal en la documentación del repositorio.
