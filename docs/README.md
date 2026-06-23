@@ -2,8 +2,8 @@
 
 ## Datos principales
 - **Título:** *Business Email: Language, Structure and Style*
-- **Autor (metadatos PDF):** Chris
-- **Entidad editora/publicadora:** The Language Key Ltd
+- **Autor (contenido visible de la portada):** David Richards
+- **Entidad editora/publicadora (contenido visible del PDF):** The Language Key Ltd
 - **Descripción de la entidad:** Business English Training Consultants in Hong Kong since 1994
 - **URL institucional:** https://www.languagekey.com
 - **URL de descarga oficial del PDF:** https://www.languagekey.com/business_email.pdf
@@ -20,7 +20,7 @@
 - **Fecha de modificación del archivo (metadata):** 2015-11-17
 
 ## Referencia sugerida (formato breve)
-Chris. *Business Email: Language, Structure and Style*. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: https://www.languagekey.com/business_email.pdf
+Richards, David. *Business Email: Language, Structure and Style*. Published by: The Language Key Ltd. Disponible en: https://www.languagekey.com/business_email.pdf
 
 ## Nota
-La autoría y el año se toman de metadatos internos del PDF. Si necesitas una cita académica estricta (APA 7, MLA, Chicago), conviene validar en la portada o ficha legal de la obra original.
+La atribución anterior se toma del contenido visible de la portada (nombre «David Richards») y del cuerpo del PDF (línea «Published by: The Language Key Ltd»).

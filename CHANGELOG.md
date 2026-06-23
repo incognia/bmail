@@ -2,6 +2,8 @@
 
 ## [2026-06-22] - Referencias bibliográficas y trazabilidad de fuentes
 
+- docs: corregí la atribución bibliográfica para tomar el autor visible en portada (`David Richards`) y reflejarlo en `README.md` y `docs/README.md`.
+- refactor: sincronicé la referencia `Source` con autor y editor en `scripts/extract_emails.py`, `scripts/rebuild_index.py`, `templates/example_*.txt` y `templates/business_email_examples_index.txt`.
 - feat: agregué `scripts/discover_site_pdfs.py` para descubrir PDFs del sitio, emitir salida JSON y descargar los archivos encontrados.
 - chore: añadí `downloads/` a `.gitignore` para excluir artefactos descargados del control de versiones.
 - docs: documenté la URL oficial de descarga `https://www.languagekey.com/business_email.pdf` en `README.md` y `docs/README.md`.

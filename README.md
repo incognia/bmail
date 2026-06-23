@@ -8,10 +8,17 @@ Construir una base de ejemplos de correos de negocio en inglés para:
 - y tener una referencia rápida por asunto y página.
 
 ## Fuente principal
-- Obra bibliográfica: Chris. *Business Email: Language, Structure and Style*. The Language Key Ltd, 2015. PDF, 108 pp. Disponible en: https://www.languagekey.com/business_email.pdf
+- Obra bibliográfica (desde contenido visible de la portada): Richards, David. *Business Email: Language, Structure and Style*. Published by: The Language Key Ltd. Disponible en: https://www.languagekey.com/business_email.pdf
 - Ficha bibliográfica local: `docs/README.md`
 - Archivo PDF local de trabajo: `docs/business_email.pdf`
 - Total de páginas del PDF: 108
+
+## Atribución de la obra fuente
+- Título de la obra original: *Business Email: Language, Structure and Style*.
+- Autor visible en portada: **David Richards**.
+- Crédito editorial visible en el PDF: **Published by: The Language Key Ltd**.
+- Fuente oficial de acceso público: https://www.languagekey.com/business_email.pdf
+- Este repositorio no reclama autoría sobre la obra original; los ejemplos se organizan y referencian con atribución explícita a la fuente.
 
 ## Preparar entorno Python (venv)
 Desde la raíz del repositorio:
@@ -101,6 +108,7 @@ Estado actual del índice:
 ## Notas
 - Si el ejemplo del PDF no trae encabezados explícitos, se registra `From: N/A` y `To: N/A`.
 - La numeración usada en `Page` y en el nombre del archivo ya contempla la portada como página `000`.
+- Los derechos de la obra fuente corresponden a su titular original.
 
 ## Referencias cruzadas con el repositorio de reglas
 - Ruta local del repositorio de reglas: `~/rules/`
