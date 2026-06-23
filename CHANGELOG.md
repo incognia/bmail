@@ -2,6 +2,8 @@
 
 ## [2026-06-22] - Referencias bibliográficas y trazabilidad de fuentes
 
+- docs: compacté `README.md` al fusionar secciones redundantes de fuente y atribución en un bloque único.
+- docs: moví la tabla de contenidos detallada del libro a `docs/README.md` y dejé en `README.md` un resumen con referencia al detalle.
 - docs: corregí la atribución bibliográfica para tomar el autor visible en portada (`David Richards`) y reflejarlo en `README.md` y `docs/README.md`.
 - refactor: sincronicé la referencia `Source` con autor y editor en `scripts/extract_emails.py`, `scripts/rebuild_index.py`, `templates/example_*.txt` y `templates/business_email_examples_index.txt`.
 - feat: agregué `scripts/discover_site_pdfs.py` para descubrir PDFs del sitio, emitir salida JSON y descargar los archivos encontrados.

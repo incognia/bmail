@@ -7,17 +7,10 @@ Construir una base de ejemplos de correos de negocio en inglés para:
 - alimentar el *skill* `bmail`,
 - y tener una referencia rápida por asunto y página.
 
-## Fuente principal
-- Obra bibliográfica (desde contenido visible de la portada): Richards, David. *Business Email: Language, Structure and Style*. Published by: The Language Key Ltd. Disponible en: https://www.languagekey.com/business_email.pdf
+## Fuente y atribución de la obra
+- Referencia bibliográfica (desde contenido visible de la portada): Richards, David. *Business Email: Language, Structure and Style*. Published by: The Language Key Ltd. Disponible en: https://www.languagekey.com/business_email.pdf
 - Ficha bibliográfica local: `docs/README.md`
-- Archivo PDF local de trabajo: `docs/business_email.pdf`
-- Total de páginas del PDF: 108
-
-## Atribución de la obra fuente
-- Título de la obra original: *Business Email: Language, Structure and Style*.
-- Autor visible en portada: **David Richards**.
-- Crédito editorial visible en el PDF: **Published by: The Language Key Ltd**.
-- Fuente oficial de acceso público: https://www.languagekey.com/business_email.pdf
+- Archivo PDF local de trabajo: `docs/business_email.pdf` (108 páginas)
 - Este repositorio no reclama autoría sobre la obra original; los ejemplos se organizan y referencian con atribución explícita a la fuente.
 
 ## Preparar entorno Python (venv)
@@ -52,22 +45,9 @@ Notas:
 python scripts/rebuild_index.py --templates-dir templates
 ```
 
-## Contenido del libro (tabla de contenidos)
-Secciones principales detectadas en el PDF:
-- *Opening and Referencing*
-- *Making Enquiries*
-- *Informing and Notifying*
-- *Replies to Requests*
-- *Clarifying and Confirming*
-- *Giving Advice and Making Suggestions*
-- *Making Arrangements*
-- *Addressing Problems and Mistakes*
-- *Confirming Orders and Prices*
-- *Closing*
-- *General Business Writing Skills*
-  - *Using the Right Tone*
-  - *Developing a Good Writing Style (1, 2, 3)*
-  - *Writing in Plain English*
+## Contenido del libro (resumen)
+La obra cubre apertura y referenciación, consultas, notificaciones, respuestas a solicitudes, aclaraciones, sugerencias, arreglos, problemas, confirmación de órdenes/precios, cierre y habilidades generales de redacción empresarial.
+Para la tabla de contenidos detallada, consulta `docs/README.md`.
 
 ## *Dataset* extraído en este repositorio
 La carpeta `templates/` contiene ejemplos en texto plano derivados de la obra bibliográfica descrita en `docs/README.md`.
@@ -108,7 +88,6 @@ Estado actual del índice:
 ## Notas
 - Si el ejemplo del PDF no trae encabezados explícitos, se registra `From: N/A` y `To: N/A`.
 - La numeración usada en `Page` y en el nombre del archivo ya contempla la portada como página `000`.
-- Los derechos de la obra fuente corresponden a su titular original.
 
 ## Referencias cruzadas con el repositorio de reglas
 - Ruta local del repositorio de reglas: `~/rules/`

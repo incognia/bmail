@@ -24,3 +24,19 @@ Richards, David. *Business Email: Language, Structure and Style*. Published by: 
 
 ## Nota
 La atribución anterior se toma del contenido visible de la portada (nombre «David Richards») y del cuerpo del PDF (línea «Published by: The Language Key Ltd»).
+
+## Contenido del libro (tabla de contenidos)
+- *Opening and Referencing*
+- *Making Enquiries*
+- *Informing and Notifying*
+- *Replies to Requests*
+- *Clarifying and Confirming*
+- *Giving Advice and Making Suggestions*
+- *Making Arrangements*
+- *Addressing Problems and Mistakes*
+- *Confirming Orders and Prices*
+- *Closing*
+- *General Business Writing Skills*
+  - *Using the Right Tone*
+  - *Developing a Good Writing Style (1, 2, 3)*
+  - *Writing in Plain English*
