@@ -40,3 +40,12 @@ La atribución anterior se toma del contenido visible de la portada (nombre «Da
   - *Using the Right Tone*
   - *Developing a Good Writing Style (1, 2, 3)*
   - *Writing in Plain English*
+
+## Fuente complementaria: Emailing In English Intro Pack
+- **Título:** *Business English Phrases: Emailing In English Super Triple Pack*
+- **Autor (contenido visible):** Christopher Wright
+- **Entidad:** The English Training Company (TETC)
+- **URL de descarga usada:** https://www.englishtco.com/wp-content/uploads/2018/09/Emailing-In-English_Intro-Pack.pdf
+- **Ruta local:** `docs/Emailing-In-English_Intro-Pack.pdf`
+- **Cobertura del material:** Series One (1-5), Gold Series (6-10), Platinum Series (11-15)
+- **Artefacto derivado en Markdown (tabla de ejemplos):** `docs/Emailing-In-English_Intro-Pack_examples.md`

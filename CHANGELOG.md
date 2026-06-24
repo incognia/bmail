@@ -1,5 +1,11 @@
 # Registro de cambios
 
+## [2026-06-24] - Documentación de fuente complementaria y tabla de ejemplos
+
+- docs: documenté la fuente complementaria `Emailing-In-English_Intro-Pack.pdf` y su URL de descarga en `docs/README.md`.
+- docs: agregué `docs/Emailing-In-English_Intro-Pack_examples.md` con la tabla de ejemplos en formato Markdown puro.
+- chore: añadí `docs/Emailing-In-English_Intro-Pack.pdf` a `.gitignore` para excluir el insumo local del control de versiones.
+
 ## [2026-06-22] - Referencias bibliográficas y trazabilidad de fuentes
 
 - docs: compacté `README.md` al fusionar secciones redundantes de fuente y atribución en un bloque único.
